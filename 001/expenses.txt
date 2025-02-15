@@ -1,0 +1,8 @@
+2025-02-10, 56.0, food, missal
+2025-02-10, 90.0, travel, pune to lonavala 
+2025-02-10,156.0,food,veg thali
+2025-02-10,25.0,travel,bus pass
+2025-02-10,90.0,shopping,t-shirt
+2025-02-10,500.0,college,exam fees
+2025-02-15,456.0,food,party expense
+2025-02-15,56.0,food,pizza
